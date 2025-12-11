@@ -1,5 +1,6 @@
 # Table of contents
 
-* [lalalalal](README.md)
-* [Developer Platform](<README (1).md>)
+* [Developer Platform](README.md)
+* [lalalalal](<README (1).md>)
+* [hahahahahah](hahahahahah.md)
 * [讨论班记录20251211](tao-lun-ban-ji-lu-20251211.md)
